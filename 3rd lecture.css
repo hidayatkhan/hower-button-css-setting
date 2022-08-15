@@ -1,0 +1,16 @@
+.green{color:blue;background:yellow;}
+.green:hover{color:red; background:green;}
+.strangi:hover{color:blue; background:yellow;}
+.strangi{color:red;background:green;}
+{color:white; font-size:20; background:green;}
+.omg{color:pink; background:black;}
+.omg:hover{color:blue; background:orange; }
+.abc:hover{color:pink; background:blue; font-size:40PX;border-radius:20px;}
+.abc{color:red; background:yellow; font-size:30PX;border-radius:30px;}
+.home{color:orange;background:green; font-size:20px;}
+.home:hover{color:blue;background:yellow;}
+.page{color:blue;background:orange;font-size:30px;}
+.page:hover{color:yellow;background:red;font-size:30px;}
+.laptop{color:green;background:red;font-size:25px;}
+.laptop:hover{color:blue;background:orange;font-size:30px;}
+.size{font-size: 50px;}
